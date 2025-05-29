@@ -1,5 +1,7 @@
 # Company Research Agent 
 
+![image](image/graph_img.png)
+
 ## 🧠 Project Overview
 
 **Company Research Agent** is an intelligent system designed to automate the task of researching companies by:
